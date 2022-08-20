@@ -29,5 +29,5 @@ body {
 }
 
 .parent .child-1 {
-    top: 100px;
+    position: fixed;
 }
