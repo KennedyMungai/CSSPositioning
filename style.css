@@ -20,7 +20,7 @@ body {
     margin: 0;
 }
 
-.parent div {
+.parent span {
     background: rgb(105, 105, 109);
     color: white;
     padding: 10px;
